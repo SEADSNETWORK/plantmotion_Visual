@@ -103,6 +103,26 @@
 
 > Written by Claude when a session closes: what was done, what is open, the next step. Newest first.
 
+#### Handoff 2026-10-18 10:15
+
+#### Session 2026-10-18 (status review only)
+
+**Done**
+- Reviewed the card: there was no earlier handoff, no milestones and no overdue tasks.
+- Added 3 milestones, each linked to its existing Nextcloud task (all due 2026-10-31): Rework the website (`rvtsek`), Mission / Vision statement rework (`e5n1fh`), Implement Selani's ideas (`y2alee`).
+
+**Open**
+- `seadsweb` has an uncommitted production rebuild under `build/` (old chunks deleted, new `main.bfdd6fdf` / `2.081e3eda` added). Not reviewed yet: decide whether to commit or discard it.
+- Diego's mission/vision input is in the WhatsApp chats ("SEADS Coordination" / "INPO Board / Founders"). Not read yet.
+- Selani's ideas are in a Spark mail thread (link in the task description). Selani asked which roles they could fill and introduced Lugao Kasberg. Not answered yet.
+- The 14 Oct context sync failed for SEADSNETWORK/simpleServerOscProcessing and plantmotion_Visual. Neither is cloned locally.
+
+**Decisions**
+- None.
+
+**Next step**
+- Look at the `build/` diff in `seadsweb` and commit or discard it. Then read Diego's WhatsApp message on the mission/vision so the new text can go into the website rework.
+
 ### claude/decisions.md
 
 ### Decisions · SEADS
