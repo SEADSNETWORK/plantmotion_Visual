@@ -14,6 +14,14 @@
 - **Vault folder:** `Projects/art/seads`
 - **Website:** https://pietersteyaert.net/project/seads (suggested)
 
+### Milestones
+
+| Date | Milestone | Done |
+|---|---|---|
+| 2026-10-31 | Implement Selani's ideas (task) |  |
+| 2026-10-31 | Mission / Vision statement rework (see Diego's WhatsApp) (task) |  |
+| 2026-10-31 | Rework the website (task) |  |
+
 ### Resources
 
 - GitHub (main): https://github.com/subtiv/seadsweb
@@ -51,6 +59,14 @@
 - **Deadline:** none set
 - **Vault folder:** `Projects/art/seads`
 - **Website:** https://pietersteyaert.net/project/seads (suggested)
+
+##### Milestones
+
+| Date | Milestone | Done |
+|---|---|---|
+| 2026-10-31 | Implement Selani's ideas (task) |  |
+| 2026-10-31 | Mission / Vision statement rework (see Diego's WhatsApp) (task) |  |
+| 2026-10-31 | Rework the website (task) |  |
 
 ##### Resources
 
